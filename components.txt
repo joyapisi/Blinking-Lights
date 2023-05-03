@@ -1,0 +1,11 @@
+HARDWARE:
+One Raspberry Pi
+One Breadboard
+Three 100 ohm Resistors
+One 4-pin Push Button
+Eight Jumper Wires
+One LED
+
+SOFTWARE:
+-Python
+-Raspberry pi Operating System
